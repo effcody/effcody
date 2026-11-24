@@ -48,9 +48,11 @@ learning       ->   Java (Spring Boot) and Rust
 <br>
 
 <a href="https://discord.com/users/1504991008860012604">
-  <img src="https://lanyard.cnrad.dev/api/1504991008860012604?theme=dark&bg=0b0f14&borderRadius=12px&hideDiscrim=true" width="500" alt="Live Discord status for Cody" />
+  <img src="https://discord.c99.nl/widget/theme-1/1504991008860012604.png" width="500" alt="Live Discord status for Cody" />
 </a>
 
+<br>
+<img src="https://img.shields.io/badge/DISCORD-1504991008860012604-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Cody Discord profile" />
 <br>
 <sub>Live presence card for <a href="https://discord.com/users/1504991008860012604">Cody</a>. If the widget is unavailable, use the profile button above.</sub>
 
