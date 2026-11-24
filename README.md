@@ -39,6 +39,23 @@ learning       ->   Java (Spring Boot) and Rust
 | Bot backend | Command handling, event processing, and keeping services stable when traffic spikes |
 | Learning builds | Practice projects in Java and Rust while I level up beyond Node.js |
 
+## Developer signals
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3500&pause=1000&color=FBBF24&center=true&vCenter=true&width=760&lines=%22Make+it+work%2C+make+it+clear%2C+make+it+last.%22;%22Good+systems+feel+boring+when+they+are+working.%22;%22Ship+small.+Learn+fast.+Keep+the+standard+high.%22" alt="Developer quotes" />
+
+<br>
+
+<a href="https://discord.com/users/1504991008860012604">
+  <img src="https://lanyard.cnrad.dev/api/1504991008860012604?theme=dark&bg=0b0f14&borderRadius=12px&hideDiscrim=true" width="500" alt="Live Discord status for Cody" />
+</a>
+
+<br>
+<sub>Live presence card for <a href="https://discord.com/users/1504991008860012604">Cody</a>. If the widget is unavailable, use the profile button above.</sub>
+
+</div>
+
 ## Featured project
 
 ### Kira - Discord music platform
